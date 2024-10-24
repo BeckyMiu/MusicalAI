@@ -1,1 +1,1 @@
-# NovelListAI
+# MusicalAI
